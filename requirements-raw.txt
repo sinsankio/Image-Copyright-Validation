@@ -1,0 +1,4 @@
+chromadb
+mediapipe
+fastapi
+python-multipart
